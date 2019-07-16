@@ -14,4 +14,8 @@ exports.mongoose = {
   loadModel: true,
   app: true,
   agent: false,
+  // model所在目录，默认 app/model
+  modelDir: 'model',
+  // 注入model名称
+  modelName: 'mongoose'
 };

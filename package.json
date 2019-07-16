@@ -1,6 +1,6 @@
 {
-  "name": "egg-mongoose",
-  "version": "3.2.0",
+  "name": "@souvenir/egg-mongoose",
+  "version": "3.2.1",
   "description": "egg mongoose plugin",
   "eggPlugin": {
     "name": "mongoose"
